@@ -1,0 +1,27 @@
+SELECCION -> σ (sigma)
+
+PROYECCIÓN -> π (pi)
+elimina tuplas duplicadas
+
+UNIÓN -> ∪
+elimina tuplas duplicadas
+
+INTERSECCIÓN -> ∩
+
+PRODUCTO CARTESIANO -> x
+concatena cada tupla de T1 con todas las tuplas de T2
+
+PRODUCTO NATURAL -> |x|
+
+DIFERENCIA -> -
+
+DIVISIÓN -> %
+
+RENOMBRE -> ρ
+
+ASGINACIÓN -> A <- Consulta
+
+MODIFICACIÓN -> δ
+
+
+
